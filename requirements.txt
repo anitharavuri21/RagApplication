@@ -1,9 +1,1 @@
 streamlit
-pymupdf
-chromadb==0.4.24
-sentence-transformers
-google-generativeai
-pydantic==1.10.13
-tiktoken
-numpy<2.0.0
-duckdb  # Use DuckDB instead of SQLite
