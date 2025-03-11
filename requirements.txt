@@ -8,3 +8,6 @@ fastapi==0.95.2
 uvicorn
 tiktoken
 numpy==1.26.4  # Fix compatibility issue
+--extra-index-url https://pypi.org/simple
+pysqlite3-binary
+
