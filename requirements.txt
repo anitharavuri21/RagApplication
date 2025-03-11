@@ -7,8 +7,6 @@ pydantic==1.10.13
 fastapi==0.95.2
 uvicorn
 tiktoken
-numpy==1.26.4  # Fix compatibility issue
+numpy==1.26.4  # Fix compatibility issue with NumPy 2.0
+duckdb  # Use DuckDB instead of SQLite for ChromaDB persistence
 --extra-index-url https://pypi.org/simple
-pysqlite3-binary
-
-
