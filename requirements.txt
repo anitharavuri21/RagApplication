@@ -1,6 +1,5 @@
 streamlit
 pymupdf
-sqlite3 
 chromadb
 sentence-transformers
 google-generativeai
