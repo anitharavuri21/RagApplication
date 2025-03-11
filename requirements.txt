@@ -1,5 +1,6 @@
 streamlit
 pymupdf
-chromadb
+chromadb==0.4.22
 sentence-transformers
 google-generativeai
+pydantic==1.10.13
