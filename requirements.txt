@@ -5,5 +5,5 @@ sentence-transformers
 google-generativeai
 pydantic==1.10.13
 tiktoken
-numpy<2.0.0  # Ensure compatibility with ChromaDB
-duckdb  # Alternative persistence to SQLite
+numpy<2.0.0
+duckdb  # Use DuckDB instead of SQLite
